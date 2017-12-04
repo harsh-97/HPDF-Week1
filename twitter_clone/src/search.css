@@ -1,0 +1,27 @@
+.tweet {
+	padding-top: 8px;
+	padding-left: 7px;
+	padding-bottom: 8px;
+	padding-right: 50px;
+	background: lightblue;
+	border-radius: 10px;
+	width: 300px;
+	display: table;
+	margin: auto;
+	margin-top: 7.5px;
+	margin-bottom: 7.5px;
+}
+
+.name {
+	background: lightblue;
+}
+
+.retweet {
+	border-radius: 15px;
+	background: lightblue;
+	border-color: aquamarine;
+}
+
+p {
+	margin-right: 5px
+}
